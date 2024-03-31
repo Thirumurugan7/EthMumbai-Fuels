@@ -1,4 +1,4 @@
-//To install the Fuel toolchain, you can use the fuelup-init script. This will install forc, forc-client, forc-fmt, forc-lsp, forc-wallet as well as fuel-core in ~/.fuelup/bin.
+//To install the Fuel toolchain, you can use the fuelup-init script. 
 curl https://install.fuel.network | sh
 
 
