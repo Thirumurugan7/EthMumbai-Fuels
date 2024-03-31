@@ -7,7 +7,7 @@ fuelup self update
 fuelup update
 fuelup default latest
 
-//Installing the Fullstack Fuel project
+//Installing the Fullstack Fuel project.
 pnpm create fuels
 
 mkdir fuel-project
